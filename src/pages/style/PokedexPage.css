@@ -1,0 +1,38 @@
+.poke__article {
+    width: 100%;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+.poke__article__filter {
+    width: 17em;
+    height: 1.8em;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2em;
+}
+.poke__btn {
+    background-color: brown;
+}
+.poke__user {
+    color: red;
+    margin-left: 1em;
+    font-size: 20px;
+}
+.poke__image {
+    width: 20em;
+    margin-left: 1em;
+    margin-top: 1.5em;
+}
+.poke__pokemons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8em;
+}
+.poke__h2 {
+   margin: auto;
+}
+

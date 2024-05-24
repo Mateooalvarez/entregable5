@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: "inter", sans-serif;
+}
+body{
+    margin: 0;
+}
+h1, h2, h3, h4{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+input, button{
+    font-family: inherit;
+}
+input{
+    outline: none;
+}
+button{
+    cursor: pointer;
+}
+img{
+    display: block;
+    width: 100%;
+}

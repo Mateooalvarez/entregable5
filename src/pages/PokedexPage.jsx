@@ -7,7 +7,7 @@ import './style/PokedexPage.css'
 
 const PokedexPage = () => {
 
-  const [searchedName, setSearchedName] = useState(' ')
+  const [searchedName, setSearchedName] = useState('')
   const [typeSelected, setTypeSelected] = useState('allPokemons')
 
 const trainer = useSelector(states => states.trainer)
